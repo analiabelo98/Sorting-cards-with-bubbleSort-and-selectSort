@@ -92,7 +92,7 @@ const selectSort = arr => {
     }
     min++;
   }
-  console.log("Ordenado2", arr);
+  
   return arr;
 };
 
